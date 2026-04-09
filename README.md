@@ -22,4 +22,4 @@ Primeiro a entrar, primeiro a sair.
 - Fila: enqueue, dequeue, front, isEmpty, isFull, display
 
 ## Vídeo
-(coloque aqui o link do YouTube)
+[(coloque aqui o link do YouTube)](https://youtu.be/uhLB4OIg8Do?si=4MWv-5Wj09KigwkV)
